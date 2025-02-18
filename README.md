@@ -5,3 +5,4 @@
 - [第1章 投资与估值概述](https://github.com/ifeitao/penman5e/blob/main/penman5e/ch1.md)
 - [第2章 财务报表简介](https://github.com/ifeitao/penman5e/blob/main/penman5e/ch2.md)
 - [第3章 财务报表在估值中的作用](https://github.com/ifeitao/penman5e/blob/main/penman5e/ch3.md)
+- [第4章 现金收付制、权责发生制和贴现现金流估值模型](https://github.com/ifeitao/penman5e/blob/main/penman5e/ch4.md)
